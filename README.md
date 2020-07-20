@@ -8,7 +8,7 @@
 ### Hello World  💖  
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunadl/)](https://www.linkedin.com/in/brunadl/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/brunadl/)](https://github.com/brunadl/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjean_dev)](https://www.instagram.com/bruna.lanzarini) [![Twitter Badge](https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/brunadl_)](https://twitter.com/brunadl_) [![Dev.to](https://img.shields.io/badge/-Dev.to-242A2D?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/brunadl)](https://dev.to/brunadl))
 
-I am Bruna Lanzarini, and currently an intern in Data Analytics. Coordinator of the NerdZão, NerdGirlz and DevAI Women community and Co-Founder of Connect Community, where I work with free content sharing, and also a great enthusiast of Artificial Intelligence and humanization in technologies.<br> <br>
+I am Bruna Lanzarini, and currently an intern in Data Analytics. Coordinator of the NerdZão, NerdGirlz and DevAI Women community and Co-Founder of Connect Community, where I work with free content sharing, and also a great enthusiast of Artificial Intelligence and humanization in technologies.<br> 
 
 👩🏼‍💻 I’m currently intern in Data Analytics at [ReclameAQUI](https://www.reclameaqui.com.br/)<br>
 🤖 I'm studying Data & IA<br>
