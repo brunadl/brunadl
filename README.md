@@ -10,7 +10,7 @@
 
 I am Bruna Lanzarini, and currently an intern in Customer Engineer at Microsoft. Named Microsoft Learn Student Ambassador by Microsoft and Coordinator of the NerdZão and NerdGirlz community where I work with free content sharing, and also a great enthusiast of Artificial Intelligence and humanization in technologies.<br> 
 
-👩🏼‍💻 I’m currently intern in Data Analytics at [ReclameAQUI](https://www.reclameaqui.com.br/)<br>
+👩🏼‍💻 I’m currently intern in Customer Engineer at [Microsoft](https://www.microsoft.com/pt-br)<br>
 🤖 I'm studying Data & IA<br>
 📚 I'm graduating in Information Systems by [FIAP](https://www.fiap.com.br/)<br>
 🐱‍💻 I'm a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)<br>
