@@ -11,9 +11,9 @@
 I am Bruna Lanzarini, and currently an intern in Customer Engineer at Microsoft. Named Microsoft Learn Student Ambassador by Microsoft and Coordinator of the NerdZão and NerdGirlz community where I work with free content sharing, and also a great enthusiast of Artificial Intelligence and humanization in technologies.<br> 
 
 👩🏼‍💻 I’m currently intern in Customer Engineer at [Microsoft](https://www.microsoft.com/pt-br)<br>
-🤖 I'm studying Data & IA<br>
+🤖 I'm studying CyberSecurity<br>
 📚 I'm graduating in Information Systems by [FIAP](https://www.fiap.com.br/)<br>
-🐱‍💻 I'm a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)<br>
+🐱‍💻 I'm a [Gold Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)<br>
 
 
 ### My skills: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![R](https://img.shields.io/badge/-R-0077B5?style=flat&logoColor=white&logo=r) ![Kotlin](https://img.shields.io/badge/-Kotlin-ff961f?style=flat&logoColor=white&logo=kotlin) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
